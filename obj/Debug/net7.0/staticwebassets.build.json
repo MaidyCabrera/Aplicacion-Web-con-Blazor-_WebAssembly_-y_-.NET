@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lyrQoJm/Y3M5VR6mjjZe4P7WKaTTfGfS1TrYz3Z8oE0=",
+  "Hash": "4OjH+7NugDZJ0LzFJ5x0le1o+bSswEwLpm2yx8zqbhk=",
   "Source": "blazorappdemo",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\midy\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\midy\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\midy\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "blazorappdemo",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\blazorappdemo.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "SourceId": "blazorappdemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\midy\\.nuget\\packages\\blazored.toast\\4.1.0\\lib\\net7.0\\Blazored.Toast.dll"
     },
     {
       "Identity": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.7.60gh3gk8aq.js",
@@ -4231,6 +4265,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.dll"
+    },
+    {
+      "Identity": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\obj\\Debug\\net7.0\\build-gz\\CDr0Xq+d.gz",
+      "SourceId": "blazorappdemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Blazored.Toast.dll"
     },
     {
       "Identity": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\obj\\Debug\\net7.0\\build-gz\\cIDO73nC.gz",

@@ -826,4 +826,8 @@ C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\blazorappdemo.dll
 C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\refint\blazorappdemo.dll
 C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\blazorappdemo.pdb
 C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\ref\blazorappdemo.dll
-C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\scopedcss\Pages\Products.razor.rz.scp.css
+C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\scopedcss\Pages\Products\Products.razor.rz.scp.css
+C:\Users\midy\Desktop\Back\blazorappdemo\bin\Debug\net7.0\wwwroot\_framework\Blazored.Toast.dll
+C:\Users\midy\Desktop\Back\blazorappdemo\bin\Debug\net7.0\wwwroot\_framework\Blazored.Toast.dll.gz
+C:\Users\midy\Desktop\Back\blazorappdemo\bin\Debug\net7.0\Blazored.Toast.dll
+C:\Users\midy\Desktop\Back\blazorappdemo\obj\Debug\net7.0\build-gz\CDr0Xq+d.gz

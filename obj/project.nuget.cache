@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v/kfj4Xfl1EDFJV/hO+uK23aqL1ltTreCILRB4gqzpLA985JGlgIuaV9DaQ72LUWjY1EZBmHOryEsvS4vhD3nQ==",
+  "dgSpecHash": "6RBFVoJ8x57o3jjdTZO16G5ifZ9/Otq2UJKrvAOI3aM2M6donr8bPiV+N7d6gaUpiJBTMi2YyHToXLgB8KthbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\midy\\Desktop\\Back\\blazorappdemo\\blazorappdemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\midy\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
     "C:\\Users\\midy\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.7\\microsoft.aspnetcore.authorization.7.0.7.nupkg.sha512",
     "C:\\Users\\midy\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.7\\microsoft.aspnetcore.components.7.0.7.nupkg.sha512",
     "C:\\Users\\midy\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.7\\microsoft.aspnetcore.components.analyzers.7.0.7.nupkg.sha512",
